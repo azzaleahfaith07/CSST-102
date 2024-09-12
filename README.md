@@ -6,4 +6,4 @@
 
 ### Machine Problem #1: [Click here to view](https://github.com/azzaleahfaith07/CSST-102/tree/main/Lab%20Activity%201%3A%20Overview%20of%20Machine%20Learning%20Applications)
 ### Machine Problem #2: [Click here to view](https://github.com/azzaleahfaith07/CSST-102/tree/main/3A-OXINA-MP2)
-### Laboratory Exercise #1: [Click here to view]()
+### Laboratory Exercise #1: [Click here to view](https://github.com/azzaleahfaith07/CSST-102/tree/main/3A-OXINA-EXER1)
